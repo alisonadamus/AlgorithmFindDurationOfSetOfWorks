@@ -1,0 +1,27 @@
+.title {
+  text-align: left;
+  background-color: mediumpurple;
+  font-size: x-large;
+  font-family: "Segoe Print";
+}
+
+input {
+  width: 30px;
+  height: 15px;
+}
+
+label {
+  white-space: pre-line;
+  margin: 4px 2px;
+}
+
+.myButton {
+  background-color: plum;
+  font-family: "Times New Roman";
+  border: none;
+  padding: 6px 12px;
+  display: inline-block;
+  font-size: 16px;
+  margin: 2px 1px;
+  border-radius: 8px;
+}
